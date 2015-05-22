@@ -1,7 +1,7 @@
 /*
  *  Question3.cpp
  *
- *  Name:           [ mabel nkem]
+ *  Name:           [uti, mabel nkem]
  *  reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *
