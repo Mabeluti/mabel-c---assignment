@@ -2,11 +2,12 @@
  *  Question6.cpp
  *
  *  Name:           [ mabel nkem]
+ * reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *
  *  Body Mass Index (BMI) calculator application that reads
- *  the user’s weight in kilograms and height in meters,
- *  calculates and display the user’s body mass index
+ *  the userâ€™s weight in kilograms and height in meters,
+ *  calculates and display the userâ€™s body mass index
  */
  
  #include <iostream>
