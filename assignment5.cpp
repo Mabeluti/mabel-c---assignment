@@ -2,6 +2,7 @@
  *  Question5.cpp
  *
  *  Name:           [ mabel nkem]
+ *  reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *  Program that calculates the squares and cubes of the integers from 0 to 10
  *
