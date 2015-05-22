@@ -1,12 +1,13 @@
 /*
  *  Question1.cpp
  *
- *  Name:           [ mabel nkem]
+ *  Name:           [uti, mabel nkem]
+ *  reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *  
  *
  * a program that reads an integer 
- * and determines and prints whether it’s odd or even.
+ * and determines and prints whether itâ€™s odd or even.
  *
  */
  
