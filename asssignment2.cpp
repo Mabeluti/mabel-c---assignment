@@ -2,6 +2,7 @@
  *  Question2.cpp
  *
  *  Name:           [ mabel nkem]
+ *  reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *  Program that reads two integers and determines
  *  if first is a multiple of second
