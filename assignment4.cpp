@@ -2,6 +2,7 @@
  *  Question4.cpp
  *
  *  Name:           [ mabel nkem]
+ *  reg no: pds/2013/0401
  *  Department:     [ mathematics]
  *
  *  Program that inputs a five-digit integer,
